@@ -1,7 +1,7 @@
 
 
 
-    #GIL BLAS RUDGE JUNIOR
+    GIL BLAS RUDGE JUNIOR
     Linkedin: https://www.linkedin.com/in/gil-rudge/
     
     
