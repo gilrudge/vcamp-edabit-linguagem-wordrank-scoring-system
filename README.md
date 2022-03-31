@@ -1,11 +1,12 @@
 
 
 
-    <h1>GIL BLAS RUDGE JUNIOR</h1>
+    GIL BLAS RUDGE JUNIOR
     Linkedin: https://www.linkedin.com/in/gil-rudge/
     
     
-    ![word ranking scoring system](https://user-images.githubusercontent.com/72421017/161161732-038fb373-30c1-4c25-b7f2-43298da1f5d5.jpg)
+   ![word ranking scoring system](https://user-images.githubusercontent.com/72421017/161163416-5bb136c1-7016-454c-b981-d19d9d65a7c3.jpg)
 
-    Link do desafio realizado: https://edabit.com/challenge/sZZ4gr9RNN8JpMaEv
+
+    <a href="https://edabit.com/challenge/sZZ4gr9RNN8JpMaEv">Link para o teste Edabit</a>
     
